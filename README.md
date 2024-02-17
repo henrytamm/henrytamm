@@ -3,7 +3,7 @@
 <h3 align="center"> - Completed an intensive 1000-hour coding bootcamp at App Academy, where I gained comprehensive training and hands-on experience in modern web development tools and technologies</h3>
 
 ### Find me
-- 🔗 Want to connect? [LinkedIn][linkedin]
+- 🔗 Want to connect? [LinkedIn][linkedin] 
 
 
 
