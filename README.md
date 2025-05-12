@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center"> - Psychologist turned Full Software Engineer</h3>
 <h3 align="center"> - Completed an intensive 1000-hour coding bootcamp at App Academy, where I gained comprehensive training and hands-on experience in modern web development tools and technologies</h3>
 
 ### Find me
